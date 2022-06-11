@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-flex-WE_QhE9z8I)
+- [Live Site URL](https://challenge-qr-code-component-7u4u36o06-sarisha-pr.vercel.app/)
 
 ## Built with
 
